@@ -1,5 +1,3 @@
-# dg-office-scheduler-v11
-A Flask-based Meeting Management System for managing DG, department, and official meetings with MySQL database integration.
 # DG Office Scheduler — MPA / DG Meeting Edition
 
 This version is a Flask **Multiple Page Application (MPA)** for controlled office scheduling.
